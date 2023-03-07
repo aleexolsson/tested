@@ -1,11 +1,2 @@
-# tested
-this is a test
-
-# Im trying things
-To see if they work
-
-
-did a thing
-
-
-without breaking it
+# RewriteRulesTest
+This repository is a test repository where I'm trying some web rules and stuff
